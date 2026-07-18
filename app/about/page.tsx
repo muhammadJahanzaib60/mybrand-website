@@ -9,7 +9,7 @@ export default function About() {
       <div style={{ padding: '60px 40px', maxWidth: '1000px', margin: '0 auto' }}>
         
         <h1 style={{ fontSize: '45px', fontWeight: 'bold' }}>About Us</h1>
-        <p style={{ color: '#666', marginTop: '10px' }}>Hamare bare me janiye</p>
+        <p style={{ color: '#666', marginTop: '10px' }}>hame jane</p>
 
         <div style={{ display: 'flex', gap: '40px', marginTop: '40px', alignItems: 'center' }}>
           
