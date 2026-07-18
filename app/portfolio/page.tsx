@@ -1,14 +1,13 @@
-export default function Services(){
+export default function Portfolio(){
  return(
  <main style={{padding:"80px 6%", fontFamily:"sans-serif"}}>
   <a href="/">← Back to Home</a>
-  <h1 style={{fontSize:"36px", marginTop:"20px", color:"#0F172A"}}>Our Services</h1>
-  <p style={{color:"#64748B"}}>GrowthSpark Digital Services - #2563EB Blue Theme</p>
+  <h1 style={{fontSize:"36px", marginTop:"20px", color:"#0F172A"}}>Portfolio</h1>
   <div style={{display:"grid", gridTemplateColumns:"1fr 1fr", gap:"20px", marginTop:"30px"}}>
-   <div style={{border:"1px solid #E2E8F0", padding:"20px", borderRadius:"16px"}}><b>📈 SEO</b><br/>Rank #1 on Google</div>
-   <div style={{border:"1px solid #E2E8F0", padding:"20px", borderRadius:"16px"}}><b>📱 Social Media</b><br/>Instagram + Facebook Growth</div>
-   <div style={{border:"1px solid #E2E8F0", padding:"20px", borderRadius:"16px"}}><b>🎯 Google Ads</b><br/>High ROI Campaigns</div>
-   <div style={{border:"1px solid #E2E8F0", padding:"20px", borderRadius:"16px"}}><b>💻 Web Development</b><br/>Next.js Responsive Sites</div>
+   <div style={{background:"#0F172A", color:"#fff", padding:"24px", borderRadius:"16px"}}><b>MyBrand Store</b><br/>E-commerce - 3x Sales Growth</div>
+   <div style={{background:"#2563EB", color:"#fff", padding:"24px", borderRadius:"16px"}}><b>DG Khan Motors</b><br/>SEO - #1 Ranking</div>
+   <div style={{background:"#F59E0B", color:"#000", padding:"24px", borderRadius:"16px"}}><b>Lahore Fitness</b><br/>Social Media - 10k Followers</div>
+   <div style={{background:"#F8FAFC", border:"1px solid #E2E8F0", padding:"24px", borderRadius:"16px"}}><b>StartupX</b><br/>Google Ads - 50 Leads/Week</div>
   </div>
  </main>
  )
