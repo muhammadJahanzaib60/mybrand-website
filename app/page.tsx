@@ -156,7 +156,7 @@ export default function GrowthSpark() {
             <input name="name" required placeholder="Your Name" style={{width:"100%", padding:"14px", borderRadius:"12px", border:"1px solid #D1D5DB", marginBottom:"12px"}}/>
             <input name="email" type="email" required placeholder="Your Email" style={{width:"100%", padding:"14px", borderRadius:"12px", border:"1px solid #D1D5DB", marginBottom:"12px"}}/>
             <textarea name="message" required placeholder="Tell us about your business..." style={{width:"100%", padding:"14px", borderRadius:"12px", border:"1px solid #D1D5DB", height:"120px", marginBottom:"12px"}}></textarea>
-            <button type="submit" style={{width:"100%", padding:"16px", background:"#2563EB", color:"#fff", borderRadius:"12px", border:"none", fontWeight:700, cursor:"pointer", fontSize:"15px"}}>Get Free Audit →</button>
+            <button type="submit" style={{width:"100%", padding:"16px", background:"#2563EB", color:"#fff", borderRadius:"12px", border:"none", fontWeight:700, cursor:"pointer", fontSize:"15px"}}>Send Message</button>
           </form>
         </div>
       </section>
