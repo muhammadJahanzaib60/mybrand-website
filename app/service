@@ -1,0 +1,14 @@
+export default function Services(){
+ return(
+ <main style={{padding:"80px 6%"}}>
+  <a href="/">← Home</a>
+  <h1 style={{fontSize:"36px", marginTop:"20px"}}>Our Services</h1>
+  <div style={{display:"grid", gridTemplateColumns:"1fr 1fr", gap:"20px", marginTop:"20px"}}>
+   <div style={{border:"1px solid #ddd", padding:"20px", borderRadius:"12px"}}>📈 SEO - Rank #1</div>
+   <div style={{border:"1px solid #ddd", padding:"20px", borderRadius:"12px"}}>📱 Social Media Marketing</div>
+   <div style={{border:"1px solid #ddd", padding:"20px", borderRadius:"12px"}}>🎯 Google Ads</div>
+   <div style={{border:"1px solid #ddd", padding:"20px", borderRadius:"12px"}}>💻 Web Development - Next.js</div>
+  </div>
+ </main>
+ )
+}
