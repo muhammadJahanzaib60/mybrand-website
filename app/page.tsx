@@ -147,7 +147,7 @@ export default function GrowthSpark() {
             <h2 className="jakarta" style={{fontSize:"42px", fontWeight:800}}>Let's Talk Growth</h2>
             <p style={{color:"#64748B", marginTop:"12px"}}>Book a free 15-min strategy call. We'll audit your business & show you where you're losing money.</p>
             <div style={{marginTop:"30px", fontSize:"15px", lineHeight:"2"}}>
-              📍 Lahore, Pakistan<br/>📧 iknowbatter007@gmail.com<br/>💬 +92 300 0000
+              📍DGK, Pakistan<br/>📧 iknowbatter007@gmail.com<br/>💬 +92 3174073341
             </div>
           </div>
           <form action="https://formsubmit.co/iknowbatter007@gmail.com" method="POST">
@@ -162,7 +162,7 @@ export default function GrowthSpark() {
       </section>
 
       <footer style={{background:"#0F172A", color:"#94A3B8", textAlign:"center", padding:"40px", fontSize:"13px"}}>
-        © 2026 GrowthSpark Digital • All Rights Reserved • Lahore, Pakistan
+        © 2026 GrowthSpark Digital • All Rights Reserved •DGK, Pakistan
       </footer>
     </main>
   );
